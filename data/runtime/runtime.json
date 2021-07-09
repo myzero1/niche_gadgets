@@ -4,10 +4,10 @@
 		"desc": "点击左边的菜单中的工具名称，会在右边显示对应的详情;\n点击下载并安装就可以下载安装本工具；\n选择好输入输出目录后，点击马上运行，就会打开新窗口运行本工具;",
 		"img": "myzero1.png",
 		"type": "info",
-        "file_url_prefix": "",
-        "file_name": "",
-        "file_volume_total": 0,
-        "last_volume_size": 0
+		"file_url_prefix": "",
+		"file_name": "",
+		"file_volume_total": 0,
+		"last_volume_size": 0
 	},
 	{
 		"name": "【说明】小众小工具-免费微费",
@@ -15,10 +15,10 @@
 		"desc": "免费使用：你提测需求我来开发，我们共同完成测试，共同拥有使用权。你有优先代理权，我们有软件著作权；\n微费订制：你提需求并协助完成测试，付于我们低微的费用，我们来开发，你免费永久使用。",
 		"img": "myzero1.png",
 		"type": "info",
-        "file_url_prefix": "",
-        "file_name": "",
-        "file_volume_total": 0,
-        "last_volume_size": 0
+		"file_url_prefix": "",
+		"file_name": "",
+		"file_volume_total": 0,
+		"last_volume_size": 0
 	},
 	{
 		"name": "【说明】小众小工具-联系方式",
@@ -26,10 +26,10 @@
 		"desc": "WEB:https://github.com/myzero1/niche_gadgets,https://gitee.com/myzero1/niche_gadgets\nQQ:1523656659\nEmail:myzero1@qq.com",
 		"img": "myzero1.png",
 		"type": "info",
-        "file_url_prefix": "",
-        "file_name": "",
-        "file_volume_total": 0,
-        "last_volume_size": 0
+		"file_url_prefix": "",
+		"file_name": "",
+		"file_volume_total": 0,
+		"last_volume_size": 0
 	},
 	{
 		"name": "【免费】一键安装配置Docker Toolbox",
@@ -37,10 +37,10 @@
 		"desc": "在windows上一键安装配置Docker Toolbox，自带docker-compose的最佳实践配置",
 		"img": "z1_docker_toolbox.png",
 		"type": "tool",
-        "file_url_prefix": "https://raw.fastgit.org/myzero1/niche_gadgets/main/data/gadgets/z1_docker_toolbox/",
-        "file_name": "z1_docker_toolbox",
-        "file_volume_total": 1,
-        "last_volume_size": 285260
+		"file_url_prefix": "https://raw.fastgit.org/myzero1/niche_gadgets/main/data/gadgets/z1_docker_toolbox/",
+		"file_name": "z1_docker_toolbox",
+		"file_volume_total": 1,
+		"last_volume_size": 285260
 	},
 	{
 		"name": "【试用】提取发票主要信息到excel",
@@ -48,9 +48,9 @@
 		"desc": "提取发票主要的信息（发票编码，号码，日期，金额，税额，总额，卖方）保存到Excel文件中。",
 		"img": "invoice_excel_128_128.ico",
 		"type": "tool",
-        "file_url_prefix": "https://raw.fastgit.org/myzero1/niche_gadgets/main/data/gadgets/invoice2excel/",
-        "file_name": "invoice2excel",
-        "file_volume_total": 5,
-        "last_volume_size": 285260
+		"file_url_prefix": "https://raw.fastgit.org/myzero1/niche_gadgets/main/data/gadgets/invoice2excel/",
+		"file_name": "invoice2excel",
+		"file_volume_total": 5,
+		"last_volume_size": 285260
 	}
 ]
