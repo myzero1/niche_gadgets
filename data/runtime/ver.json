@@ -4,5 +4,12 @@
     "author":"myzero1@qq.com",
     "ver_str":"0.1.0",
     "ver_num":"21070601",
-    "publish_date":"2021-07-06 10:12:35"
+    "publish_date":"2021-07-06 10:12:35",
+    "runtime_json_urls":[
+        "https://gitee.com/myzero1/niche_gadgets/raw/main/data/runtime/runtime.json",
+        "https://myzero1.xyz/data/runtime/runtime.json",
+        "https://raw.fastgit.org/myzero1/niche_gadgets/main/data/runtime/runtime.json",
+        "https://raw.githubusercontent.com/myzero1/niche_gadgets/main/data/runtime/runtime.json"
+        
+    ]
 }
