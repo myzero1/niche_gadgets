@@ -37,7 +37,7 @@
 		"desc": "在windows上一键安装配置Docker Toolbox，自带docker-compose的最佳实践配置",
 		"img": "z1_docker_toolbox.png",
 		"type": "tool",
-		"file_url_prefix": "https://raw.fastgit.org/myzero1/niche_gadgets/main/data/gadgets/z1_docker_toolbox/",
+		"file_url_prefix": "https://gitee.com/myzero1/niche_gadgets_gadgets/raw/main/z1_docker_toolbox/",
 		"file_name": "z1_docker_toolbox",
 		"file_volume_total": 1,
 		"last_volume_size": 285260
@@ -48,7 +48,7 @@
 		"desc": "提取发票主要的信息（发票编码，号码，日期，金额，税额，总额，卖方）保存到Excel文件中。",
 		"img": "invoice2excel.png",
 		"type": "tool",
-		"file_url_prefix": "https://raw.fastgit.org/myzero1/niche_gadgets/main/data/gadgets/invoice2excel/",
+		"file_url_prefix": "https://gitee.com/myzero1/niche_gadgets_gadgets/raw/main/invoice2excel/",
 		"file_name": "invoice2excel",
 		"file_volume_total": 1,
 		"last_volume_size": 285260
